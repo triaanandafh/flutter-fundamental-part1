@@ -14,7 +14,7 @@ Pada praktikum ini, Project Flutter baru berhasil dibuat dengan nama project 'he
 3. Buat nama project flutter hello_world. Tunggu hingga proses pembuatan project baru selesai.
 4. Jika sudah selesai proses pembuatan project baru, pastikan tampilan seperti berikut. Pesan akan tampil berupa "Your Flutter Project is ready!" artinya Anda telah berhasil membuat project Flutter baru.
 
-> **Screenshot Hasil di Perangkat Fisik:**
+> **Dokumentasi:**
 > ![Capture HP](images/output-praktikum1.png)
 
 ---
@@ -46,7 +46,7 @@ Pada praktikum ini, repository baru bernama flutter-fundamental-part1 berhasil d
 10.	Lakukan push juga untuk semua file lainnya dengan pilih Stage All Changes. Beri pesan commit "project hello_world". Maka akan tampil di repository GitHub Anda seperti berikut.
 11. Kembali ke VS Code, ubah platform di pojok kanan bawah ke emulator atau device atau bisa juga menggunakan browser Chrome. Lalu coba running project hello_world dengan tekan F5 atau Run > Start Debugging. Tunggu proses kompilasi hingga selesai, maka aplikasi flutter pertama Anda akan tampil seperti berikut.
 
-> **Screenshot Hasil di Perangkat Fisik:**
+> **Dokumentasi:**
 > ![Capture HP](images/output-praktikum3.png)
 > ![Capture HP](images/01.png)
 
@@ -59,7 +59,7 @@ Pada praktikum ini, aplikasi `hello_world` berhasil dijalankan pada perangkat fi
 1. Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart. Ketik atau salin kode program berikut ke project hello_world Anda pada file text_widget.dart. 
 2. Lakukan import file text_widget.dart ke main.dart, lalu ganti bagian text widget dengan kode di atas. Maka hasilnya seperti gambar berikut. 
 
-> **Screenshot Hasil di Perangkat Fisik:**
+> **Dokumentasi:**
 > ![Kode program Text Widget](images/02-praktikum4.png)
 > ![Output](images/03-praktikum4.png)
 
@@ -68,7 +68,7 @@ Pada praktikum ini, aplikasi `hello_world` berhasil dijalankan pada perangkat fi
 2. Lakukan penyesuaian asset pada file pubspec.yaml dan tambahkan file logo Anda di folder assets project hello_world.
 3. Jangan lupa sesuaikan kode dan import di file main.dart kemudian akan tampil gambar seperti berikut.
 
-> **Screenshot Hasil di Perangkat Fisik:**
+> **Dokumentasi:**
 > ![Kode program Image Widget](images/04-praktikum4.png)
 > ![Output Image Widget](images/05-praktikum4.png)
 
@@ -80,42 +80,42 @@ Pada praktikum ini, aplikasi `hello_world` berhasil dijalankan pada perangkat fi
 **Langkah 1: Cupertino Button dan Loading Bar**
 1. Buat file di basic_widgets > loading_cupertino.dart. Import stateless widget dari material dan cupertino. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
 
-> **Screenshot Hasil di Perangkat Fisik:**
-> ![Capture HP](link_ke_screenshot_hp_kamu.png)
+> **Dokumentasi:**
+> ![Kode program](images/06-praktikum5.png)
 
 **Langkah 2: Floating Action Button (FAB)**
 1. Button widget terdapat beberapa macam pada flutter yaitu ButtonBar, DropdownButton, TextButton, FloatingActionButton, IconButton, OutlineButton, PopupMenuButton, dan ElevatedButton.
 Buat file di basic_widgets > fab_widget.dart. 
 2. Import stateless widget dari material. Lalu isi kode di dalam method Widget build adalah sebagai berikut
 
-> **Screenshot Hasil di Perangkat Fisik:**
-> ![Capture HP](link_ke_screenshot_hp_kamu.png)
+> **Dokumentasi:**
+> ![Kode program](images/07-praktikum5.png)
 
 **Langkah 3: Scaffold Widget**
 1. Scaffold widget digunakan untuk mengatur tata letak sesuai dengan material design.
 Ubah isi kode main.dart seperti berikut.
 
-> **Screenshot Hasil di Perangkat Fisik:**
-> ![Capture HP](link_ke_screenshot_hp_kamu.png)
+> **Dokumentasi:**
+> ![Kode program](images/08-praktikum5.png)
 
 **Langkah 4: Dialog Widget**
 1. Dialog widget pada flutter memiliki dua jenis dialog yaitu AlertDialog dan SimpleDialog. Ubah isi kode main.dart seperti berikut.
 
-> **Screenshot Hasil di Perangkat Fisik:**
-> ![Capture HP](link_ke_screenshot_hp_kamu.png)
+> **Dokumentasi:**
+> ![Kode program](images/09-praktikum5.png)
 
 **Langkah 5: Input dan Selection Widget**
 1. Flutter menyediakan widget yang dapat menerima input dari pengguna aplikasi yaitu antara lain Checkbox, Date and Time Pickers, Radio Button, Slider, Switch, TextField.
 Contoh penggunaan TextField widget adalah sebagai berikut:
 
-> **Screenshot Hasil di Perangkat Fisik:**
-> ![Capture HP](link_ke_screenshot_hp_kamu.png)
+> **Dokumentasi:**
+> ![Kode program](images/10-praktikum5.png)
 
 **Langkah 6: Date and Time Pickers**
 1. Date and Time Pickers termasuk pada kategori input dan selection widget, berikut adalah contoh penggunaan Date and Time Pickers.
 
-> **Screenshot Hasil di Perangkat Fisik:**
-> ![Capture HP](link_ke_screenshot_hp_kamu.png)
+> **Dokumentasi:**
+> ![Kode program](images/11-praktikum5.png)
 
 ---
 
